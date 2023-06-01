@@ -16,18 +16,18 @@ margin: 0% auto;
         flex-direction: row;
        background-color: #1c1938;
         border-radius: 7px;
-        min-width: 600px;
-        height: 15em;
+        min-width: 900px;
+        height: 20em;
     }
     .wrap-div{
-        width: 300px;
+        width: 450px;
     }
     #div-container-1{
-        width: 280px;
-         padding: 20px ;
+        width: 420px;
+         padding: 30px ;
     }
     #title{
-        font-size: 1.1em;
+        font-size: 1.5em;
         margin-bottom: 0%;
         padding-bottom: 0%;
     }
@@ -38,7 +38,7 @@ margin: 0% auto;
         color: #d0cfdd ;
     }
     #description{
-        font-size: 0.5rem;
+        font-size: 0.6rem;
         font-weight: bold;
         margin-top: 0%;
         padding-top: 0%;
@@ -52,21 +52,21 @@ margin: 0% auto;
     
     }
     .figure{
-        font-size:0.8rem ;
+        font-size:0.9rem ;
     } 
     .values{
-       font-size: 0.4rem; 
+       font-size: 0.5rem; 
     }
     #img-container{
         background-color: #8b3abd;
         margin: 0%;
         border-radius: 0% 3% 3% 0%;
-        width: 300px;
-        height: 15em;
+        width: 450px;
+        height: 20em;
     }
     #image{
-        height: 15em;
-       width:300px;
+        height: 20em;
+       width:450px;
         background-image: url(./image-header-desktop.jpg);
         background-size: cover;
         opacity: 0.6;
